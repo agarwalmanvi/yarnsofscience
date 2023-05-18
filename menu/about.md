@@ -1,19 +1,11 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: Welcome to Yarns of Science
 permalink: /about
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+This blog is meant as a space where I can share my love for science and my love for crochet. It serves as a way to document my crochet projects and explore my creative energies.
 
-### Getting Started
+An interesting feature of this blog is that all my designs are original and I create the patterns for each project from scratch. This process is challenging and fun, where I must imagine the journey from the one-dimensional thread to two-dimensional surfaces to three-dimensional objects.
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
-
-### Example Content
-
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
-
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+Welcome to my blog and I hope you enjoy looking around!
